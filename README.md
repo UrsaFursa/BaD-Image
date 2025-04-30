@@ -1,5 +1,15 @@
 # BaD-Image
 BaD-image is used to check backdoors on images from unknown sources to avoid virus insertion on the device. easy to use and very light.
+
+## requirements.txt
+"""
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+opencv-python
+
 ## Usage
 1. Install dependencies:
    pip install -r requirements.txt
