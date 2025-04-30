@@ -3,12 +3,12 @@ BaD-image is used to check backdoors on images from unknown sources to avoid vir
 
 ## requirements.txt
 """
-torch
-torchvision
-matplotlib
-numpy
-scikit-learn
-opencv-python
+- torch
+- torchvision
+- matplotlib
+- numpy
+- scikit-learn
+- opencv-python
 
 ## Usage
 1. Install dependencies:
